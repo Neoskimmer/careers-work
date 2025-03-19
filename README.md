@@ -7,7 +7,7 @@ These careers are accessible to anyone with the required qualifications, and are
 
 ## (Ethical) Hackers
 
-Hacking doesn't have to be bad, it can be ethical too! Click [here](https://github.com/Neoskimmer/careers-work/blob/main/robot-designer.md) to learn more about how hackers can do good in the world :D
+Hacking doesn't have to be bad, it can be ethical too! Click [here](https://github.com/Neoskimmer/careers-work/blob/main/white-hat-hacking.md) to learn more about how hackers can do good in the world :D
 
 ## Healthcare
 
